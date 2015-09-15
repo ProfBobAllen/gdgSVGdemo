@@ -7,6 +7,6 @@
 
  <circle cx="150" cy="100" r="80" fill="black" />
 
- <text x="150" y="125" font-size="14" text-anchor="middle" fill="white">Before</text>
+ <text x="150" y="125" font-size="28" text-anchor="middle" fill="white">Before</text>
 
 </svg>

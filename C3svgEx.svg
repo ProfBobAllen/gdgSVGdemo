@@ -7,8 +7,10 @@
 
  <circle cx="150" cy="100" r="180" fill="yellow" />
 
- <circle cx="0" cy="0" r="10" fill="red" />
+ <circle cx="0" cy="0" r="50" fill="red" />
 
- <text x="150" y="125" font-size="60" text-anchor="middle" fill="blue">James<text>
+ <circle cx="300" cy="0" r="50" fill="red" />
+
+ <text x="150" y="125" font-size="60" text-anchor="middle" fill="blue">James</text>
 
 </svg>

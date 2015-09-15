@@ -3,7 +3,6 @@
     width="300" height="200"
     xmlns="http://www.w3.org/2000/svg">
 
- <g transform="translate(700 210) rotate(-30)">
   <rect width="100%" height="100%" fill="#cb5307" />
 
  <circle cx="150" cy="100" r="80" fill="black" />

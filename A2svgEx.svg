@@ -5,8 +5,8 @@
 
  <rect width="100%" height="100%" fill="white" />
 
- <circle cx="150" cy="100" r="110" fill="black" />
+ <circle cx="10" cy="100" r="110" fill="black" />
 
- <text x="150" y="125" font-size="60" text-anchor="middle" fill="orange">Matt</text>
+ <text x="150" y="125" font-size="60" text-anchor="left" fill="orange">Matt</text>
 
 </svg>
